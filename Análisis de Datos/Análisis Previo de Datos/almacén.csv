@@ -1,0 +1,46 @@
+DNI;tfno;ciudad;sexo;hijos;casapropia;compra;horacompra;gastomensual;díacompra;fecha_nac;edad;compra_A;edadendías;puesto;sueldo;fecha_trab;años_trab;días;hora_cod
+11.979.539;682.049.331;2;hombre;sí;sí;grandes superficies;17;474,6;sábado;23-may-1974;40;fin de semana;14.671;directivo;2.818;13-sep-1996;18;6.641;tarde
+12.747.663;642.032.996;3;mujer;sí;no;grandes superficies;17;451,8;viernes;26-dic-1974;40;laborable;14.458;jefe;2.000;24-jul-1996;18;6.690;tarde
+13.025.242;635.777.048;3;mujer;sí;no;grandes superficies;19;724,6;viernes;26-dic-1967;47;laborable;16.978;jefe;2.482;03-jun-1989;25;9.261;tarde
+17.643.120;617.838.177;2;mujer;sí;sí;grandes superficies;18;674,2;sábado;30-sep-1963;51;fin de semana;18.504;administrativo;1.425;04-jul-1985;29;10.670;tarde
+19.425.576;659.932.179;3;hombre;sí;no;grandes superficies;14;590,3;viernes;12-may-1966;48;laborable;17.562;directivo;3.900;20-abr-1988;26;9.664;tarde
+19.800.499;657.097.488;4;mujer;sí;sí;super. barrio;20;623,8;viernes;19-oct-1966;48;laborable;17.405;directivo;4.215;16-jul-1988;26;9.578;noche
+22.476.945;693.422.770;4;hombre;no;no;super. barrio;20;542,1;jueves;13-sep-1966;48;laborable;17.441;administrativo;1.943;26-dic-1988;26;9.418;noche
+23.742.077;640.949.194;6;mujer;sí;no;super. barrio;17;849,4;sábado;24-jul-1956;58;fin de semana;21.090;administrativo;2.451;21-ene-1978;37;13.353;tarde
+24.062.888;624.683.740;2;hombre;no;no;grandes superficies;20;939,4;sábado;26-ene-1971;44;fin de semana;15.868;jefe;2.774;15-may-1993;21;7.839;noche
+25.085.175;628.359.227;1;hombre;sí;no;tienda barrio;19;798,9;viernes;27-feb-1972;42;laborable;15.477;directivo;5.690;18-oct-1999;15;5.526;tarde
+25.466.705;640.174.634;3;mujer;sí;no;grandes superficies;13;458,8;lunes;30-ene-1962;53;laborable;19.104;administrativo;1.325;10-may-1984;30;11.084;mañana
+26.877.210;610.422.026;7;hombre;sí;no;super. barrio;20;839,4;viernes;11-mar-1954;60;laborable;21.943;administrativo;1.512;02-may-1976;38;13.972;noche
+28.782.165;681.747.953;1;mujer;no;sí;tienda barrio;9;837,5;miércoles;24-abr-1941;73;laborable;26.580;administrativo;1.325;23-oct-1970;44;15.961;mañana
+32.284.048;640.045.488;8;hombre;sí;no;grandes superficies;10;515,1;sábado;05-oct-1967;47;fin de semana;17.059;administrativo;1.337;18-ene-1989;26;9.396;mañana
+36.832.339;647.225.256;8;mujer;sí;no;grandes superficies;20;531,0;lunes;21-dic-1971;43;laborable;15.543;administrativo;1.377;23-ene-1993;22;7.951;noche
+38.647.490;617.119.958;8;mujer;sí;sí;super. barrio;20;848,9;sábado;26-jun-1955;59;fin de semana;21.478;administrativo;1.900;05-nov-1977;37;13.429;noche
+39.315.146;666.637.519;10;hombre;no;no;grandes superficies;20;892,5;sábado;22-ago-1973;41;fin de semana;14.942;administrativo;1.612;20-nov-1995;19;6.934;noche
+41.547.370;682.587.208;10;mujer;sí;sí;super. barrio;20;917,9;viernes;30-sep-1959;55;laborable;19.944;administrativo;1.456;03-dic-1981;33;11.961;noche
+41.989.531;648.593.897;8;hombre;no;sí;super. barrio;20;666,8;martes;01-may-1958;56;laborable;20.453;jefe;3.288;22-abr-1980;34;12.542;noche
+42.224.364;658.353.473;3;mujer;no;no;grandes superficies;20;934,1;viernes;10-dic-1966;48;laborable;17.354;administrativo;1.500;11-sep-1988;26;9.523;noche
+43.314.321;625.064.838;5;mujer;no;sí;super. barrio;20;732,4;martes;14-feb-1956;59;laborable;21.250;administrativo;1.617;28-jun-1978;36;13.196;noche
+45.491.691;643.392.069;7;hombre;sí;sí;grandes superficies;20;705,9;sábado;19-nov-1968;46;fin de semana;16.655;jefe;2.088;03-ago-1990;24;8.841;noche
+47.809.075;608.514.446;9;mujer;no;no;super. barrio;21;677,4;sábado;18-oct-1958;56;fin de semana;20.286;jefe;3.396;13-dic-1981;33;11.951;noche
+50.986.820;625.004.124;8;hombre;sí;no;grandes superficies;20;958,7;viernes;27-may-1969;45;laborable;16.467;jefe;1.606;17-feb-1991;24;8.647;noche
+53.119.460;666.262.267;6;mujer;no;no;super. barrio;20;970,6;viernes;22-oct-1952;62;laborable;22.442;jefe;3.478;06-ago-1974;40;14.598;noche
+56.268.008;668.512.955;10;mujer;sí;sí;grandes superficies;20;565,6;sábado;13-mar-1968;46;fin de semana;16.901;administrativo;3.562;06-ago-1990;24;8.838;noche
+57.398.903;621.664.794;10;mujer;sí;sí;tienda barrio;19;720,3;sábado;23-nov-1950;64;fin de semana;23.131;jefe;2.545;10-dic-1970;44;15.914;tarde
+59.017.272;673.300.718;2;mujer;sí;no;super. barrio;21;763,8;viernes;06-ago-1967;47;laborable;17.118;administrativo;1.760;09-abr-1989;25;9.315;noche
+59.100.200;681.760.054;5;hombre;sí;no;super. barrio;18;998,6;viernes;07-feb-1971;44;laborable;15.857;administrativo;1.700;13-jun-1993;21;7.811;tarde
+59.197.080;639.777.301;3;mujer;no;sí;tienda barrio;19;612,3;viernes;29-abr-1950;64;laborable;23.335;jefe;2.318;18-dic-1980;34;12.306;tarde
+59.569.376;614.528.357;4;hombre;sí;no;super. barrio;16;940,5;sábado;17-ago-1954;60;fin de semana;21.787;jefe;2.549;15-sep-1976;38;13.839;tarde
+59.596.983;679.465.184;5;mujer;sí;sí;super. barrio;17;463,2;viernes;14-ene-1972;43;laborable;15.520;administrativo;1.700;16-may-1994;20;7.478;tarde
+59.949.168;613.292.126;6;mujer;sí;sí;super. barrio;18;769,2;jueves;18-sep-1954;60;laborable;21.756;administrativo;1.273;23-abr-1976;38;13.981;tarde
+62.245.767;617.772.982;6;mujer;sí;sí;super. barrio;19;856,2;sábado;23-ene-1951;64;fin de semana;23.071;jefe;2.312;21-jul-1970;44;16.053;tarde
+62.534.189;638.127.374;10;hombre;sí;sí;grandes superficies;9;835,8;viernes;16-feb-1958;57;laborable;20.528;jefe;2.913;05-oct-1980;34;12.379;mañana
+63.506.619;600.412.675;10;mujer;sí;sí;tienda barrio;20;725,5;sábado;25-feb-1964;50;fin de semana;18.359;administrativo;1.452;09-mar-1986;28;10.425;noche
+63.560.017;619.989.884;3;mujer;sí;no;super. barrio;14;518,3;viernes;28-sep-1960;54;laborable;19.586;jefe;2.225;11-ene-1980;35;12.643;tarde
+63.721.990;639.864.276;4;hombre;no;sí;grandes superficies;14;776,3;sábado;30-jul-1964;50;fin de semana;18.204;jefe;3.452;25-may-1986;28;10.349;tarde
+65.155.286;618.383.919;5;mujer;no;sí;grandes superficies;17;798,9;viernes;29-abr-1973;41;laborable;15.055;administrativo;1.256;09-jun-1995;19;7.095;tarde
+67.334.607;623.389.113;1;hombre;no;no;grandes superficies;9;468,4;viernes;21-sep-1965;49;laborable;17.793;jefe;2.336;03-jul-1987;27;9.951;mañana
+67.914.389;696.657.680;1;hombre;sí;no;grandes superficies;20;435,2;viernes;14-nov-1974;40;laborable;14.500;jefe;2.897;11-oct-1996;18;6.613;noche
+67.957.033;633.974.296;2;mujer;sí;sí;grandes superficies;20;503,3;lunes;15-feb-1965;50;laborable;18.009;administrativo;1.521;16-oct-1987;27;9.848;noche
+70.348.638;637.479.634;3;mujer;no;sí;grandes superficies;21;823,2;martes;25-nov-1964;50;laborable;18.089;administrativo;1.500;24-jun-1986;28;10.320;noche
+71.623.384;606.820.387;4;mujer;no;no;super. barrio;21;646,5;miércoles;02-ago-1962;52;laborable;18.922;administrativo;1.425;03-ene-1984;31;11.211;noche
+74.072.796;629.792.339;3;mujer;sí;sí;super. barrio;20;511,7;viernes;07-ago-1956;58;laborable;21.077;administrativo;1.218;01-oct-1978;36;13.103;noche
